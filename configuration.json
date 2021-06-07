@@ -1,0 +1,26 @@
+{
+  "name": "ProjectC",
+  "about": "C",
+  "description": "C",
+  "email": "www.fmaysoftware.com",
+  "repository_name": "ProjectC",
+  "home": "https://github.com/FMAY-Software/ProjectC",
+  "deliverables": [
+    {
+      "target": "None",
+      "url": "None"
+    }
+  ],
+  "demonstration": {
+    "url": ""
+  },
+  "owner": {
+    "first_name": "FMAY-Incubator",
+    "last_name": "",
+    "email": "travis.london@fmay.net",
+    "phone": "5203730727"
+  },
+  "clients": [
+    "travis.london@gmail.com"
+  ]
+}
